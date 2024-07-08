@@ -92,6 +92,12 @@ This is a Python-based graphical user interface (GUI) application designed for g
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## License
+(end of automated README contents) 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+Feel free to do whatever you wish with this code. 
+
+## Obligatory disclaimer
+This software is provided "as is" without any guarantees or warranty. Although we strive to ensure that the software operates correctly and without errors, we cannot guarantee its reliability, accuracy, or suitability for any purpose. Users are advised not to rely on this software for critical or serious uses, including but not limited to medical, safety-critical, or mission-critical applications, where a malfunction or error could result in significant harm, damage, or loss.
+
+The developers and distributors of this software disclaim all responsibility and liability for any loss or damage resulting from its use. By using this software, you acknowledge and accept that it is used at your own risk.
