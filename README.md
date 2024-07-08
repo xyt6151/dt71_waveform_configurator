@@ -14,12 +14,11 @@ This is a Python-based graphical user interface (GUI) application designed for g
 - Preset waveforms: sine, sawtooth, triangle, and square
 - Smooth peaks by adding additional points around the selected point
 - Editable table for modifying point values
-- Copy waveform data in the required format
+- Export waveform configuration in appropriate format for CAL.INI
 - Configure grid settings for X and Y axes
-- Load waveform configurations
+- Load waveforms
 - Snap to grid for precise editing
-- Load waveform data from INI file format
-- Adjustable resolution for current waveform
+- Adjustable waveform resolution
 
 ## Installation
 
