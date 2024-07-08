@@ -10,14 +10,16 @@ This is a Python-based graphical user interface (GUI) application designed for g
 
 ## Features
 
-- Graphical and table interfaces for defining and customizing waveforms
-- Supports up to 100 points for waveform definition
-- Preset waveforms for quick generation: sine, sawtooth, triangle, and square waves
-- Functionality to smooth peaks by modifying waveform points
-- Direct export of waveform data to the clipboard in the required format for the DT71
-- Configurable grid settings for both X and Y axes to aid in waveform visualization
-- Basic waveform manipulation features such as adding, updating, and deleting points directly on the graph or through the table
-- Save and load waveform configurations (feature planned but not yet implemented)
+- Define and customize waveforms with adjustable resolution
+- Preset waveforms: sine, sawtooth, triangle, and square
+- Smooth peaks by adding additional points around the selected point
+- Editable table for modifying point values
+- Copy waveform data in the required format
+- Configure grid settings for X and Y axes
+- Load waveform configurations
+- Snap to grid for precise editing
+- Load waveform data from INI file format
+- Adjustable resolution for current waveform
 
 ## Installation
 
