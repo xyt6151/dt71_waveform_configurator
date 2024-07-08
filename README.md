@@ -34,7 +34,7 @@ This is a Python-based graphical user interface (GUI) application designed for g
    For Windows, run the provided batch script:
 
    ```bash
-   setup.bat
+  setup_script_dependencies.bat
    ```
 
    Alternatively, you can manually create a virtual environment and install dependencies:
