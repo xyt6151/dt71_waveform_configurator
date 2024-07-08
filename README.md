@@ -82,7 +82,7 @@ This is a Python-based graphical user interface (GUI) application designed for g
 
 ## Screenshots
 
-![Waveform Generator GUI](screenshots/waveform_generator.png)
+![Waveform Generator GUI](screenshot.png)
 
 ## Contributing
 
